@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sopita1217
-- 👀 I’m interested in malware development
-- 🌱 I’m currently learning c++ and neural networks
+
